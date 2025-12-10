@@ -1,7 +1,13 @@
-gradio>=4.0
-ultralytics
-torch==2.2.0+cpu
-torchvision==0.17.0+cpu
-numpy
-pillow
-opencv-python-headless
+# gradio>=4.0
+# ultralytics
+# torch==2.2.0+cpu
+# torchvision==0.17.0+cpu
+# numpy
+# pillow
+# opencv-python-headless
+gradio>=4.0.0
+torch==2.2.0
+torchvision==0.17.0
+pillow>=10.0.0
+numpy>=1.24.0
+ultralytics>=8.0.0
